@@ -4,6 +4,8 @@
 # <p>For example, 3<sup>2</sup> + 4<sup>2</sup> = 9 + 16 = 25 = 5<sup>2</sup>.</p>
 # <p>There exists exactly one Pythagorean triplet for which <var>a</var> + <var>b</var> + <var>c</var> = 1000.<br />Find the product <var>abc</var>.</p>
 
+# EDIT: After seeing the PDF this is by far not a good solution. After solving it for yourself, please read the PDF
+
 use strict;
 use warnings;
 
